@@ -29,3 +29,13 @@
 ![8.png](screenshots%2F8.png)
 ![13.png](screenshots%2F13.png)
 ![14.png](screenshots%2F14.png)
+
+### Пункты 10, 11, 12 и 13
+Удаляем побочную ветку, фиксируем изменения.
+Делаем лишний коммит, а потом откатываемся.
+![15.png](screenshots%2F15.png)
+![16.png](screenshots%2F16.png)
+![17.png](screenshots%2F17.png)
+
+И создаем ветку для отчета
+![18.png](screenshots%2F18.png)
