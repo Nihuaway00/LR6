@@ -25,7 +25,8 @@
 ![7.png](screenshots%2F7.png)
 
 ### Пункт 9
-Выполняем слияние и исправляем конфликт
+Выполняем слияние и исправляем конфликт.
+Конфликт решен средствами IDE.
 ![8.png](screenshots%2F8.png)
 ![13.png](screenshots%2F13.png)
 ![14.png](screenshots%2F14.png)
